@@ -31,11 +31,11 @@ For readers interested in the technical implementation, the project follows a st
 
 * **Data Cleaning & Exploration**: Performed using Python to inspect data quality, handle inconsistencies, and prepare the dataset for analysis.
 
-  * Python script available here → *(link to Python folder / file)*
+  * Python script available here → 
 
 * **Business Question Analysis**: Core business questions are addressed using SQL, focusing on aggregations, segmentation, and trend analysis.
 
-  * SQL queries available here → *(link to SQL folder / file)*
+  * SQL queries available here → 
 
 
 
