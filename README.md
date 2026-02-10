@@ -12,7 +12,7 @@ The dataset enables structured exploration of how products, customers, and time-
 
 ---
 
-### Analytical Objectives
+### Objectives
 
 From a **data analytics perspective**, the primary objective of this project is to support **data-driven decision-making** by identifying actionable patterns that can improve business performance. Specifically, the analysis aims to:
 
