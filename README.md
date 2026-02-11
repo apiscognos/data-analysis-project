@@ -39,3 +39,16 @@ For readers interested in the technical implementation, the project follows a st
 
 
 
+### Insights Deep Dive
+We have found four critical points to work on, that will bring the most out of this analysis.
+
+* **The Underutilized Subscription Tool**: Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction, since the Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. It implicates that, the current subscription model is just a retention tool but not a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
+
+* **The Star Products Metric**: We measured a balanced rating performance among all products, with a global average rating of 3.9/5. Nevertheless, some low-rated and high-rated products have growth potential and its promotion should be increased. On the other hand, The star products where the ones with high revenue and high reating, being the safest drivers of ROI.
+  
+* **Operational Performance**: Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. It means that staffing 
+
+### Recommendations
+* ****
+
+
