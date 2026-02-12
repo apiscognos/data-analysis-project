@@ -130,7 +130,7 @@ These initial checks ensured that the dataset was analytically consistent before
 
 
 
-### Insights Deep Dive
+### 4. Insights Deep Dive
 We have found four critical points to work on, that will bring the most out of this analysis.
 
 * **The Underutilized Subscription Tool**: Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction, since the Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. It implicates that, the current subscription model is just a retention tool but not a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
