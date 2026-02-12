@@ -90,7 +90,7 @@ Represents static or semi-static customer attributes.
 
 | Columns            |
 | ------------------ |
-| customer_id (FK)   |
+| customer_id        |
 | value_in_pounds    |
 | time               |
 | day_of_week        |
