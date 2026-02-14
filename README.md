@@ -181,7 +181,7 @@ However, product-level analysis reveals preference patterns:
 
 
 <p align="center">
-  <img src=".github/assets/revenue.PNG" width="700" />
+  <img src=".github/assets/revenue.PNG" width="900" />
 </p>
 
 ---
