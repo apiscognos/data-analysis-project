@@ -200,42 +200,28 @@ This operational consistency represents a competitive advantage.
 
 
 
-### 4. Deep Insights
+### 4. Key Insights
 
 We have identified four critical points to work on that will bring the most out of this analysis.
 
 #### The Underutilized Subscription Tool
 Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction. The Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. This implies that the current subscription model functions primarily as a retention tool rather than a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
 
-<p align="center">
-  <img src="../assets/substatus.png" alt="Revenue Per Capita By Subscription Status" width="700" />
-</p>
-<p align="center">
-  <img src="../assets/Subspercent.png" alt="Customers distribution By Subscription Status" width="700" />
-</p>
 
 #### The Star Products Metric
 We measured a balanced rating performance across all products, with a global average rating of 3.9/5. Nevertheless, some low-rated and some high-rated products show growth potential, and their promotion should be increased. **Star products** — products with both high revenue and high rating — are the safest drivers of ROI and should be prioritized in marketing and assortment strategies.
 
-<p align="center">
-  <img src="../assets/star_products.png" alt="Star products metric" width="700" />
-</p>
+
 
 #### Operational Seasonality Performance
 Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. This means staffing must match demand both seasonally and on peak days; otherwise, delivery delays could lead to significant customer dissatisfaction.
 
 This presents an opportunity to enhance star products so they can perform well in other seasons besides autumn (for example, swimsuits in summer), thereby increasing overall revenue.
 
-<p align="center">
-  <img src="../assets/seasonality.png" alt="Seasonality and staffing" width="700" />
-</p>
 
 #### Demographic Balance
 The female segment contributes £2.49M vs. the male segment's £2.30M, indicating a nearly even split in revenue. Growth based on demographics does not require pivoting to a niche market. Instead, it requires category-specific personalization: strengthen products for each segment based on the analysis (for example, targeting swimsuits to women and sneakers to men) to improve conversion rates within the existing base.
 
-<p align="center">
-  <img src="../assets/demographics.png" alt="Revenue by gender" width="700" />
-</p>
 
 ### 5. Recommendations
 
