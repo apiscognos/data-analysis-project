@@ -149,7 +149,7 @@ In short:
 ### Key Business Indicators
 
 <p align="center">
-  <img src=".github/assets/executive summary.png" width="700"/>
+  <img src=".github/assets/executive summary.PNG" width="700"/>
 </p>
 
 
