@@ -222,7 +222,7 @@ We have found four critical points to work on, that will bring the most out of t
 </p>
 
 ### 5. Recommendations
-To pivot volume-chasing to value-deepening, the following actions are recommended based on the data findings:
+ To pivot volume-chasing to value-deepening, the following actions are recommended based on the data findings:
 * **Short-Term**
 * Increase Subscribers AOV by 10-15% through offering them exclusive product bundles.
 * Matching the staffing demand on weekends and Autumn, ensuring delivery times.
