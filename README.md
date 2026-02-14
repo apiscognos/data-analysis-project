@@ -154,7 +154,7 @@ Both **subscribers and non-subscribers spend approximately £98 per capita**, de
 
 This indicates that the subscription model is currently **under-optimized and under-monetized**.
 
-**Recommendation:** Introduce exclusive bundles, loyalty perks, or member-only incentives aimed at increasing Subscriber **Average Order Value (AOV)** beyond that of non-subscribers.
+
 
 *(Dashboard visualization to be inserted below)*
 
@@ -169,7 +169,6 @@ However, product-level analysis reveals preference patterns:
 * **Swimsuits** show stronger performance among female customers.
 * **Sneakers** show stronger performance among male customers.
 
-**Recommendation:** Strengthen targeted marketing campaigns around these high-affinity products to deepen engagement within each segment.
 
 *(Dashboard visualization to be inserted below)*
 
@@ -180,8 +179,6 @@ However, product-level analysis reveals preference patterns:
 Sales performance scales naturally with city size, yet **average customer ratings remain consistent across all locations**, indicating stable product and service quality.
 
 This operational consistency represents a competitive advantage.
-
-**Recommendation:** Leverage brand stability to expand more aggressively into **mid-sized cities**, where growth potential is strong and competitive pressure may be lower.
 
 *(Dashboard visualization to be inserted below)*
 
