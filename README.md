@@ -148,6 +148,11 @@ In short:
 
 ### Key Business Indicators
 
+<p align="center">
+  <img src=".github/assets/executive summary.png" width="700"/>
+</p>
+
+
 ### Strategic Insights
 
 #### 1️⃣ Subscription Value Gap
