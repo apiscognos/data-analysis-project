@@ -205,7 +205,7 @@ We have found four critical points to work on, that will bring the most out of t
   
 * **Operational Performance**: Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. It means that staffing 
 
-### Recommendations
+### 5. Recommendations
 * ****
 
 
