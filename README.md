@@ -164,8 +164,7 @@ This indicates that the subscription model is currently **under-optimized and un
 
 
 <p align="center">
-  <img src=".github/assets/count sales.PNG" width="48%" />
-  <img src=".github/assets/per capita.PNG" width="48%" />
+  <img src=".github/assets/per capita count.PNG" width="700" />
 </p>
 
 
