@@ -194,20 +194,42 @@ This operational consistency represents a competitive advantage.
 
 *(Dashboard visualization to be inserted below)*
 
+ 
 
 
 
 
-### 4. Insights Deep Dive
+### 4. Insights Deep 
 We have found four critical points to work on, that will bring the most out of this analysis.
 
-* **The Underutilized Subscription Tool**: Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction, since the Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. It implicates that, the current subscription model is just a retention tool but not a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
+* **The Underutilized Subscription Tool:** Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction, since the Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. It implicates that, the current subscription model is just a retention tool but not a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
+<p align="center">
+  <img src="___________"pegar width="700" />
+</p>
+* **The Star Products Metric:** We measured a balanced rating performance among all products, with a global average rating of 3.9/5. Nevertheless, some low-rated and high-rated products have growth potential and its promotion should be increased. On the other hand, The star products where the ones with high revenue and high reating, being the safest drivers of ROI.
+  <p align="center">
+  <img src="___________"pegar width="700" />
+</p>
+* **Operational Seasonality Performance:** Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. It means that staffing must match demand in both, season and peak days, otherwise, there could be derivery delays that may lead into significant dissatisfaction for customers.
+* It is a great window of opportunity to enhance star products (which were described before), that may perform especially well in other seasons besides autumn (Such as suimsuits in summer), to increase the overall revenue.
+   <p align="center">
+  <img src="___________"pegar width="700" />
+</p>
 
-* **The Star Products Metric**: We measured a balanced rating performance among all products, with a global average rating of 3.9/5. Nevertheless, some low-rated and high-rated products have growth potential and its promotion should be increased. On the other hand, The star products where the ones with high revenue and high reating, being the safest drivers of ROI.
-  
-* **Operational Performance**: Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. It means that staffing 
+* * **Demographic Balance:** Female segment contributes £2.49M vs. Male segment £2.30M, which indicates a nearly evenly split revenue between segments. Growth based on demographics does not require pivoting to a niche market. Instead, It requires category-specific personalization. It means, strenghting products for each segment based on the analysis, such as targeting Swimsuits to women and Sneakers to men, in order to improve conversion rates within the existing base.
+ <p align="center">
+  <img src="___________"pegar width="700" />
+</p>
 
 ### 5. Recommendations
-* ****
+To pivot volume-chasing to value-deepening, the following actions are recommended based on the data findings:
+* **Short-Term**
+* Increase Subscribers AOV by 10-15% through offering them exclusive product bundles.
+* Matching the staffing demand on weekends and Autumn, ensuring delivery times.
+  
+* **Mid-Term**
+* Investigate the supply chain for high-volume products with ratings below 3.5. improving the quality of these items will reduce churn and returns (On which, there is no data and would be useful to start tracking).
+* Leverage the brand's stable reputation to expand into high-growth mid-sized cities where competition is lower, using the current logistics hub data as a baseline for expansion.
 
-
+* **Long-Term**
+*Integrate profitability by shifting the analytics focus from Gross Revenue to Net Margin. By integrating Cost of Goods Sold (COGS) data, the business can Identify which products actually drive bottom-line profit, not just top-line sales.
