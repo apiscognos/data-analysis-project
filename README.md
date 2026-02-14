@@ -200,16 +200,55 @@ This operational consistency represents a competitive advantage.
 
 
 
-### 4. Insights Deep Dive
-We have found four critical points to work on, that will bring the most out of this analysis.
+### 4. Deep Insights
 
-* **The Underutilized Subscription Tool**: Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction, since the Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. It implicates that, the current subscription model is just a retention tool but not a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
+We have identified four critical points to work on that will bring the most out of this analysis.
 
-* **The Star Products Metric**: We measured a balanced rating performance among all products, with a global average rating of 3.9/5. Nevertheless, some low-rated and high-rated products have growth potential and its promotion should be increased. On the other hand, The star products where the ones with high revenue and high reating, being the safest drivers of ROI.
-  
-* **Operational Performance**: Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. It means that staffing 
+#### The Underutilized Subscription Tool
+Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction. The Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. This implies that the current subscription model functions primarily as a retention tool rather than a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
+
+<p align="center">
+  <img src="../assets/substatus.png" alt="Revenue Per Capita By Subscription Status" width="700" />
+</p>
+<p align="center">
+  <img src="../assets/Subspercent.png" alt="Customers distribution By Subscription Status" width="700" />
+</p>
+
+#### The Star Products Metric
+We measured a balanced rating performance across all products, with a global average rating of 3.9/5. Nevertheless, some low-rated and some high-rated products show growth potential, and their promotion should be increased. **Star products** — products with both high revenue and high rating — are the safest drivers of ROI and should be prioritized in marketing and assortment strategies.
+
+<p align="center">
+  <img src="../assets/star_products.png" alt="Star products metric" width="700" />
+</p>
+
+#### Operational Seasonality Performance
+Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. This means staffing must match demand both seasonally and on peak days; otherwise, delivery delays could lead to significant customer dissatisfaction.
+
+This presents an opportunity to enhance star products so they can perform well in other seasons besides autumn (for example, swimsuits in summer), thereby increasing overall revenue.
+
+<p align="center">
+  <img src="../assets/seasonality.png" alt="Seasonality and staffing" width="700" />
+</p>
+
+#### Demographic Balance
+The female segment contributes £2.49M vs. the male segment's £2.30M, indicating a nearly even split in revenue. Growth based on demographics does not require pivoting to a niche market. Instead, it requires category-specific personalization: strengthen products for each segment based on the analysis (for example, targeting swimsuits to women and sneakers to men) to improve conversion rates within the existing base.
+
+<p align="center">
+  <img src="../assets/demographics.png" alt="Revenue by gender" width="700" />
+</p>
 
 ### 5. Recommendations
-* ****
 
+To shift from chasing volume to deepening value, we recommend the following actions based on the data findings:
+
+#### Short-Term
+- Increase subscribers' AOV by 10–15% through exclusive product bundles and subscriber-only offers.  
+- Match staffing to demand on weekends and during autumn to ensure delivery times and maintain service quality.
+
+#### Mid-Term
+- Investigate the supply chain for high-volume products with ratings below 3.5. Improving the quality of these items will reduce churn and returns. Start tracking returns KPIs (returns rate %, average return value, and reason codes) if not already monitored.  
+- Leverage the brand's stable reputation to expand into high-growth mid-sized cities where competition is lower, using current logistics hub data as a baseline for expansion.
+
+#### Long-Term
+- Integrate profitability metrics by shifting analytics focus from gross revenue to net margin. By integrating Cost of Goods Sold (COGS) data, the business can identify which products actually drive bottom-line profit, not just top-line sales.
 
