@@ -192,8 +192,10 @@ Sales performance scales naturally with city size, yet **average customer rating
 
 This operational consistency represents a competitive advantage.
 
-*(Dashboard visualization to be inserted below)*
 
+<p align="center">
+  <img src=".github/assets/location.PNG" width="900" />
+</p>
 
 
 
