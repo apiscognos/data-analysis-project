@@ -180,7 +180,9 @@ However, product-level analysis reveals preference patterns:
 * **Sneakers** show stronger performance among male customers.
 
 
-*(Dashboard visualization to be inserted below)*
+<p align="center">
+  <img src=".github/assets/revenue.PNG" width="700" />
+</p>
 
 ---
 
