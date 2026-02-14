@@ -202,7 +202,7 @@ This operational consistency represents a competitive advantage.
 ### 4. Insights Deep 
 We have found four critical points to work on, that will bring the most out of this analysis.
 
-* **The Underutilized Subscription Tool:** Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction, since the Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. It implicates that, the current subscription model is just a retention tool but not a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
+* * **The Underutilized Subscription Tool:** Despite a 20% subscriber base, the loyalty program is currently failing to drive incremental spend per transaction, since the Average Order Value (AOV) for subscribers is £98.15 compared to £97.87 for non-subscribers. It implicates that, the current subscription model is just a retention tool but not a monetization one. The gap is virtually zero, meaning loyal customers are not being incentivized to increase their basket size.
 <p align="center">
   <img src="___________"pegar width="700" />
 </p>
@@ -210,7 +210,7 @@ We have found four critical points to work on, that will bring the most out of t
   <p align="center">
   <img src="___________"pegar width="700" />
 </p>
-* **Operational Seasonality Performance:** Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. It means that staffing must match demand in both, season and peak days, otherwise, there could be derivery delays that may lead into significant dissatisfaction for customers.
+* * **Operational Seasonality Performance:** Autumn is the peak revenue season (£1.24M), and transaction volume spikes significantly on weekends. It means that staffing must match demand in both, season and peak days, otherwise, there could be derivery delays that may lead into significant dissatisfaction for customers.
 * It is a great window of opportunity to enhance star products (which were described before), that may perform especially well in other seasons besides autumn (Such as suimsuits in summer), to increase the overall revenue.
    <p align="center">
   <img src="___________"pegar width="700" />
@@ -232,4 +232,5 @@ To pivot volume-chasing to value-deepening, the following actions are recommende
 * Leverage the brand's stable reputation to expand into high-growth mid-sized cities where competition is lower, using the current logistics hub data as a baseline for expansion.
 
 * **Long-Term**
+  
 *Integrate profitability by shifting the analytics focus from Gross Revenue to Net Margin. By integrating Cost of Goods Sold (COGS) data, the business can Identify which products actually drive bottom-line profit, not just top-line sales.
